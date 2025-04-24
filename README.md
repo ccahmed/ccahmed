@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I’m Ahmed Hmid
 
-<!--
-**ccahmed/ccahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student at **Esprit University, Tunisia** | 4th Year  
+💻 Passionate about **full-stack development**, **data engineering**, and **AI**
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack & Tools
+- **Frontend**: Angular, JavaFX, React  
+- **Backend**: Spring Boot, Node.js, Express, REST APIs  
+- **Database**: MySQL, MongoDB, Hive  
+- **Others**: Power BI, TensorFlow, Hadoop, VMware, Sqoop, HDFS  
+- **Languages**: Java, JavaScript, Python, C#, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Interests
+- ⚡️ Real-time dashboards with Power BI  
+- 🧠 ML models for student segmentation & facial recognition  
+- 🌱 EcoHeroes – A 3D gamified mobile app promoting sustainability (SDGs)
+
+## 📚 Currently Learning
+- Deepening my skills in AI, regression models, and data pipelines  
+- Exploring 3D mobile apps and energy gamification
+
+## 🌍 Languages
+- Arabic: Native  
+- English: Fluent  
+- French: Fluent  
+- German: Basic
+
+> 💡 *"Build smart. Think green. Code with purpose."*
