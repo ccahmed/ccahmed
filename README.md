@@ -13,7 +13,7 @@
 ## 🚀 Projects & Interests
 - ⚡️ Real-time dashboards with Power BI  
 - 🧠 ML models for student segmentation & facial recognition  
-- 🌱 EcoHeroes – A 3D gamified mobile app promoting sustainability (SDGs)
+
 
 ## 📚 Currently Learning
 - Deepening my skills in AI, regression models, and data pipelines  
